@@ -1,2 +1,2 @@
 # VeriTipleri
-Python'da Veri Tipleri ve Dönüşümleri
+Python'da Veri Tipleri ve Veri Dönüşümleri
